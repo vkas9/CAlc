@@ -1,0 +1,10 @@
+*{
+    
+    box-sizing: border-box;
+}
+.calculator{
+    border:2px solid rgb(157, 156, 156);
+    width:400px;
+    border-radius: 5px;
+    
+}
